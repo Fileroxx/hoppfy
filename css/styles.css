@@ -6,7 +6,7 @@
     border:1px solid transparent;
     margin:104px auto 0 auto;
     min-height:628px;
-    background-image:url("../assets/financas-com-os-melhores-do-mundo.webp");
+    background-image:url("");
     background-repeat:no-repeat
 }
 .banner .container {
@@ -3533,12 +3533,12 @@
             
             body {
                 line-height: 1;
-                background-color: #000;
+                background: #000;
                 color: #fff
             }
             
             body .container {
-                background-color: #000;
+                background: #000;
                 color: #fff
             }
             
@@ -3551,7 +3551,7 @@
             }
             
             body::-webkit-scrollbar-thumb {
-                background: #202227
+                background: #fff
             }
             
             @media(max-width: 450px) {
